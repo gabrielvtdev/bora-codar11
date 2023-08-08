@@ -123,3 +123,7 @@ form {
 .login-button:hover {
   background: #9f67ff;
 }
+
+input:invalid {
+  border: 1px solid red;
+}
